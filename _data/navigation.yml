@@ -1,6 +1,6 @@
 main:
-  - title: "About Me"
-    url: /about/
+  - title: "Experience"
+    url: /experience/
   - title: "Projects"
     url: /projects/
   - title: "Volunteering"

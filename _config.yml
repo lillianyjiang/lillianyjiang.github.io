@@ -64,11 +64,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lillianyjiang"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linked-in"
-      url: ""
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/lillian-jiang-452185111/"
+    - label: "lillianjiang@berkeley.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lillianjiang@berkeley.edu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: ""
+      url: "https://www.instagram.com/lillian.travels/"
 
 footer:
   links:
@@ -77,10 +80,13 @@ footer:
       url: "https://github.com/lillianyjiang"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: ""
+      url: "https://www.linkedin.com/in/lillian-jiang-452185111/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: ""
+      url: "https://www.instagram.com/lillian.travels/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lillianjiang@berkeley.edu"
 
 defaults:
   # _posts
