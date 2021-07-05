@@ -40,9 +40,9 @@ I love traveling because I’m able to encounter new cultures, food, scenery, an
 
 
 ## Flute 
-I have been an avid flute player since I was ten years old. From playing in orchestras to competing in competitions, I love using flute to express myself and explore the world of music. Feel free to check out a playlist of some of my flute performances! 
+I have been an avid flute player since I was ten years old. From playing in orchestras to competing in competitions, I love using flute to express myself and explore the world of music. Feel free to check out this flute performance! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLhv1MyQN2sn7JmxsM4bjs3fRdWx1LNd51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/njo705EZiX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Figure Skating
 I started figure skating when I was nine years old. In high school I skated on a synchronized skating team. At Cal I hope to continue figure skating with the Cal Figure Skating Team. 
