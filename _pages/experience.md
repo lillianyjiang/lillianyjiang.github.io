@@ -4,11 +4,39 @@ title: "Experience"
 ---
 <div id="button-container">
     <div id="resume-button">
-        <a href="https://docs.google.com/document/d/11RRBGXVU_4pmb9tHVTx4NIaFTRo3bDV6aeue7DJzRb8/edit?usp=sharing" target="_blank">See Full Resume</a>
+        <a href="https://docs.google.com/document/d/1NqeL0c9VjRjzZdynad_dZxnAddbVWhU5OO95aSwTL2o/edit?usp=sharing" target="_blank">See Full Resume</a>
     </div>
 </div>
 
 <div id="work-content-container" class="resume">
+    <div class="item" id="rh" style="padding-top:5px">
+        <div class="logo-box">
+            <img class="logo" src="/assets/images/work/stroll.jpeg">
+        </div>
+        <div class="all-but-logo">
+            <div class="heading">
+                <div class="resume-entry">
+                    <div class="org"> State of Place // Data Science Intern </div>
+                    <div class="position"> January 2022 - Present </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="item" id="rh" style="padding-top:5px">
+        <div class="logo-box">
+            <img class="logo" src="/assets/images/work/stroll.jpeg">
+        </div>
+        <div class="all-but-logo">
+            <div class="heading">
+                <div class="resume-entry">
+                    <div class="org"> Stroll // Marketing and Data Intern </div>
+                    <div class="position"> July 2021 - January 2022 </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="item" id="rh" style="padding-top:5px">
         <div class="logo-box">
             <img class="logo" src="/assets/images/work/k2s.png">
@@ -51,7 +79,4 @@ title: "Experience"
     </div>
 </div>
 
-
-
-Code credit for this section of the website goes to [Naomi Jung](https://naomijung.github.io/#about)
 

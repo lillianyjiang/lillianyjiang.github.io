@@ -10,6 +10,9 @@ To achieve the goal of studying how land use variables predict solid waste, this
 - [Full Report](https://docs.google.com/document/d/1r5WNGwPZPRbmEzHWKOTjnHvrITZxvofNEbPzRQ4WroY/edit?usp=sharing)
 
 
+## Covid Vaccine Queue Simulation 
+Simulated a COVID vaccine call queue based on age and pre-existing condition using R. Plotted waiting time for queues, poission distribution for arrival time, and exponential distribution for interarrival times. 
+
 ## Temple Run Statistical Test 
 To test which powerup in Temple Run collects more coins, I collected by own data by playing Temple Run and conducted a statistical test. 
 
