@@ -10,7 +10,20 @@ title: "Experience"
 
 <div id="work-content-container" class="resume">
 
-    
+    <div class="item" id="rh" style="padding-top:5px">
+        <div class="logo-box">
+            <img class="logo" src="/assets/images/work/stroll.jpeg">
+        </div>
+        <div class="all-but-logo">
+            <div class="heading">
+                <div class="resume-entry">
+                    <div class="org"> Stroll // Marketing and Data Intern </div>
+                    <div class="position"> July 2021 - January 2022 </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="item" id="rh" style="padding-top:5px">
         <div class="logo-box">
             <img class="logo" src="/assets/images/work/stroll.jpeg">
