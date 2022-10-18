@@ -4,24 +4,12 @@ title: "Experience"
 ---
 <div id="button-container">
     <div id="resume-button">
-        <a href="https://docs.google.com/document/d/1NqeL0c9VjRjzZdynad_dZxnAddbVWhU5OO95aSwTL2o/edit?usp=sharing" target="_blank">See Full Resume</a>
+        <a href="" target="_blank">See Full Resume</a>
     </div>
 </div>
 
 <div id="work-content-container" class="resume">
-    <div class="item" id="rh" style="padding-top:5px">
-        <div class="logo-box">
-            <img class="logo" src="/assets/images/work/stroll.jpeg">
-        </div>
-        <div class="all-but-logo">
-            <div class="heading">
-                <div class="resume-entry">
-                    <div class="org"> State of Place // Data Science Intern </div>
-                    <div class="position"> January 2022 - Present </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     
     <div class="item" id="rh" style="padding-top:5px">
         <div class="logo-box">
