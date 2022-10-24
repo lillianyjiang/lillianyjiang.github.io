@@ -1,23 +1,63 @@
 ---
 permalink: /CV/
-title: "CV"
+title: "Lillian's CV"
 ---
 
+<div id="button-container">
+    <div id="resume-button">
+        <a href="https://drive.google.com/file/d/1L5Td0qjoLQx2YUK09ShbsbIBRN0XYBDd/view?usp=sharing" target="_blank">See Full Resume</a>
+    </div>
+</div>
+
 ## University of California, Berkeley 
-**Degree:** B.A. Computer Science, Data Science 
-**Expected Graduation:** May 2024 
-**Coursework:** Introduction to Artificial Intelligence, Principles of Data Science, Discrete Math & Probability Theory, Data Structures & Algorithms, Structure and Interpretation of Computer Programs, Foundations of Data Science, Economic Models, Linear Algebra & Differential Equations,  Personal Finance,  Introduction to Cognitive Science
-**Activites:** Data Science Society, Society of Women Engineers, Project SMILE, Chinese Students Association, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
+- **Degree:** B.A. Computer Science, Data Science 
+ <br />
+- **Expected Graduation:** May 2024 
+ <br />
+- **Coursework:** 
+ Introduction to Artificial Intelligence, Principles of Data Science, Discrete Math & Probability Theory, Data Structures & Algorithms, Structure and Interpretation of Computer Programs, Foundations of Data Science, Economic Models, Linear Algebra & Differential Equations,  Personal Finance,  Introduction to Cognitive Science
+ <br />
+- **Activites:** Data Science Society, Society of Women Engineers, Project SMILE, Chinese Students Association, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
 
 ## Experiences 
 
+- **UC Berkeley Campus Ambassador** 
+<br />
+*Jan 2022 - Present*
+<br />
+Enhanced UC Berkeley visitor experience by leading 90 minute campus tours for prospective families, community
+programs, and groups up to 40. 
+<br />
+Directed hundreds of visitors at the Homecoming and Admitted Students event.
+<br />
+Write blogposts for the BearTalk Blog to inform prospective and current students about student life
 
-## Projects
+- **Grader for Introduction to Astronomy** 
+<br />
+*August 2022 - Present* <br />
+Grade homeworks and labs for one of UC Berkeley's largest (over 600 students) and top-rated class 
+
+- **Marketing and Data Intern at Stroll** 
+<br /> *student safety navigation app*
+ <br />
+ July 2021 - Jan 2022
+ <br />
+ Reached over 5,000 Berkeley students by designing 5 promotional stickers on Procreate and planning marketing material for Instagram, Facebook, and Tiktok posts to increase awareness of Stroll on campus
+ <br />
+Designed and recruited 43 members to the Stroll UX Research Program to create a pipeline for user feedback to identify ways to improve app architecture, fix technical bugs, and differentiate among competitors 
+ <br />
+Collaborated with UCPD Corporal and Chief Community Officers to map and test over 5 navigation routes, which lead to an endorsement of the Stroll app to Berkeley students with the ASUC External Affairs Vice President 
+
+
+
+## [Projects](/projects)
+
 
 
 ## Skills
-**Languages**: Python, Java, R, SQL, Scheme, Regex
-**Tools and Packages**: Folium, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- **Languages**: Python, Java, R, SQL, Scheme, Regex
+ <br />
+- **Tools and Packages**: Folium, Numpy, Matplotlib, Seaborn, Scikit-Learn
 
 ## Volunteering 
 
@@ -41,9 +81,3 @@ Performed “Simple Gifts” w/ K2S & Baroque Orchestra of NJ
 ### Coach at Special Olympics 
 - Teach individuals with cognitive/development disabilities figure skating every Sunday for an hour.
 - Won first place in the Special Olympics Figure Skating Competition as a pair skater in level 3 
-
-### Elemental Tutoring 
-- Helped create a junior’s SAT study plan
-- Tutored a 5th grader for the SSAT exam
-- Read English books with a Chinese student and helped her study for the FCE exam
-

@@ -1,9 +1,9 @@
 main:
-  - title: "Experience"
-    url: /experience/
+  #title: "Experience"
+    #url: /experience/
   - title: "Projects"
     url: /projects/
-  - title: "Volunteering"
-    url: /volunteering/
+  - title: "CV"
+    url: /cv/
   - title: "Interests"
     url: /interests/
