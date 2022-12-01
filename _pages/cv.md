@@ -37,8 +37,7 @@ Write blogposts for the BearTalk Blog to inform prospective and current students
 *August 2022 - Present* <br />
 Grade homeworks and labs for one of UC Berkeley's largest (over 600 students) and top-rated class 
 
-- **Marketing and Data Intern at Stroll** 
-<br /> *student safety navigation app*
+- **Marketing and Data Intern at Stroll, student safety navigation app**
  <br />
  July 2021 - Jan 2022
  <br />

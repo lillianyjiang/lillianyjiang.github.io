@@ -7,3 +7,7 @@ main:
     url: /CV/
   - title: "Interests"
     url: /interests/
+  - title: "Creations"
+    url: /Creations/
+  - title: "Notes"
+    url: /notes/
