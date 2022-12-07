@@ -21,7 +21,8 @@ I also sell pictures of my photography as wall decor collections. Check them out
 
 
 ## :video_camera: Videos
-I enjoy making vlogs and sharing my experiences as a college student! I also like to make video edits of my travels. 
+I enjoy making vlogs and montages of my life as a college student! I also like making video edits of my travels. 
+
 
 - <a href="https://youtu.be/5PrgEVIMgZA">Freshman Year at UC Berkeley Video edit</a>
 - <a href="https://youtu.be/mZhl6RItxsw">Summer 2022 Video edit</a>
