@@ -6,6 +6,32 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html {
+    font-size: 12px; // change to whatever
+  
+    @include breakpoint($medium) {
+      font-size: 14px; // change to whatever
+    }
+  
+    @include breakpoint($large) {
+      font-size: 16px; // change to whatever
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 18px; // change to whatever
+    }
+  }
+  .breadcrumbs, .archive__item, .page__content {
+    a, a:visited {
+      color: #4e91a5;
+    }
+    
+    a:hover {
+      color: #235e70;
+      outline: 0;
+    }
+  }
+
 .page__content .archive__item-title {
     margin-top: 0;
 }

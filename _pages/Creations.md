@@ -38,3 +38,9 @@ I enjoy making vlogs and montages of my life as a college student! I also like m
 
 ## :art: Graphic Design 
 - Designing a high school yearbook was tough during a virtual school year. The yearbook team and I wanted to reflect the uniqueness of the virtual school year with a vaporwave themed yearbook. Check it out [here](https://www.tiktok.com/@lillianjiang/video/6974537454690913541?is_from_webapp=1&sender_device=pc&web_id=7171970490708936235)! 
+
+- Vaporwave style drawings that I drew using Procreate 
+![Pic](/assets/images/Page_57.png "Portfolio")
+![Pic](/assets/images/Page_60.png "Portfolio")
+![Pic](/assets/images/pink_sky.png "Portfolio")
+
