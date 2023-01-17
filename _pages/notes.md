@@ -3,16 +3,21 @@ permalink: /notes/
 title: "Notes"
 ---
 
-Here’s a compilation of various notes, cheatsheets, and annotated practice exams (coming soon) for courses that I have taken at UC Berkeley. 
+Here’s a compilation of various notes, and cheatsheets for courses that I have taken at UC Berkeley. 
 <br />
 Check out some of my YouTube videos reviewing classes I have taken at UC Berkeley
 <br />
 - <a href="https://youtu.be/gX3OmKpM01s"> Taking CS 70 over the Summer</a>
 - <a href="https://youtu.be/_dZh3M7ZXLU"> Freshmen fall classes [CS 61A, Data 88E, Data 8, MCB 55]</a>
 - <a href="https://youtu.be/MoNZ-Z-p2mY"> Freshmen spring classes [Math 54, CS 61B, AstroC10, UGBA 10, Yoga, UGBA 194]</a>
+- <a href="https://youtu.be/-SnUn9Sz5JE"> Sophomore fall classes [CS 188, Data 100, UGBA 135, Arch 142, Cogsci 1B]
 
 ## Computer Science Classes 
 #### CS 61A: Structure and Interpretation of Computer Programs (Fall 2021)
+- [Final Cheat Sheet](https://docs.google.com/document/d/1me-zuWf7AXVH-80zo5d0iU6TzlFN86z8PYhj07hB-X4/edit?usp=sharing)
+- [Trees Study Guide](https://docs.google.com/document/d/1pS6mjWuWN5Enb2tzNIu8QhrB5KChsiMFncrgwwUJFVc/edit)
+- [WWPD](https://docs.google.com/document/d/1-sIyJLgPgneZkqayaNCg5hcQ5BBWQKE6cF89DtlaUFg/edit?usp=sharing)
+- [Scheme Notes](https://docs.google.com/document/d/1kxjWpB-MlT7oBA7XbzVyttSB9w8NBj8MIYqoHlX9oXs/edit?usp=sharing)
 
 #### CS 61B: Data Structures & Algorithms (Spring 2022)
 - [Midterm 2 Cheat Sheet](https://docs.google.com/document/d/1KHvCuCIR-ku2ODM-dr13g_uj42HUNR2EQROfqg4hYW4/edit?usp=sharing)
@@ -23,6 +28,7 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 - [Weighted Quick Union](https://docs.google.com/document/d/1_hITKlsa8iu-xodPFdZMihBa-Rr-mraOUU3ELF6MZag/edit?usp=sharing)
 
 #### CS 70: Discrete Math & Probability Theory (Summer 2022)
+- [Final Cheatsheet](https://drive.google.com/file/d/1Gdr9Yu6dOY2LRztlh2fhy9s0qUVf7AsM/view?usp=sharing)
  
 ## Data Science Classes
 #### Data 8: Introduction to Data Science (Fall 2021)
@@ -32,6 +38,7 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 - [Folder of all my notes and study guides](https://drive.google.com/drive/folders/1ecHeFGywm1gw0b0KSdmJihag6ZHc7vW3?usp=sharing)
 
 #### Data 100: Principles of Data Science (Fall 2022)
+- [Notion site of all my notes](https://sumptuous-grease-6b7.notion.site/6128386d17504a059d9c7ba621150a37?v=a6a0a30bf9f048bd8a8566622af6fb20)
 
 ## Other
 
@@ -48,3 +55,4 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 
 
 #### UGBA 135: Personal Finance (Fall 2022)
+- [Final Review Sheet with quizlet links](https://docs.google.com/document/d/1a-Gp2UqAPfL92g_oq5H5z0ANxeOWrXaTao8wH4bEzF4/edit?usp=sharing)

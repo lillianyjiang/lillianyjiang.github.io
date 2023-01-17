@@ -72,6 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lillian.travels/"
+    - label: "VSCO"
+      icon: "fas fa-fw fa-image"
+      url: "https://vsco.co/lillianjiang/gallery"
 
 footer:
   links:
@@ -87,6 +90,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:lillianjiang@berkeley.edu"
+    - label: "VSCO"
+      icon: "fas fa-fw fa-image"
+      url: "https://vsco.co/lillianjiang/gallery"
 
 defaults:
   # _posts
