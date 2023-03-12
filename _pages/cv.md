@@ -5,7 +5,7 @@ title: "Lillian's CV"
 
 <div id="button-container">
     <div id="resume-button">
-        <a href="https://drive.google.com/file/d/1L5Td0qjoLQx2YUK09ShbsbIBRN0XYBDd/view?usp=sharing" target="_blank">See Full Resume</a>
+        <a href="https://drive.google.com/file/d/1MfbdFuRsJOVQJOpEONN17FBLURqvRLJ3/view?usp=sharing" target="_blank">See Full Resume</a>
     </div>
 </div>
 
@@ -15,9 +15,9 @@ title: "Lillian's CV"
 - **Expected Graduation:** May 2024 
  <br />
 - **Coursework:** 
- Introduction to Artificial Intelligence, Principles of Data Science, Discrete Math & Probability Theory, Data Structures & Algorithms, Structure and Interpretation of Computer Programs, Foundations of Data Science, Economic Models, Linear Algebra & Differential Equations,  Personal Finance,  Introduction to Cognitive Science
+ [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  Personal Finance,  Introduction to Cognitive Science
  <br />
-- **Activites:** Data Science Society, Society of Women Engineers, Project SMILE, Chinese Students Association, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
+- **Activites:** [Data Science Society](https://dssberkeley.com/), Society of Women Engineers, Project SMILE, Chinese Students Association, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
 
 ## Experiences 
 
@@ -34,7 +34,7 @@ Write blogposts for the BearTalk Blog to inform prospective and current students
 
 - **Grader for Introduction to Astronomy** 
 <br />
-*August 2022 - Present* <br />
+*August 2022 - December 2022* <br />
 Grade homeworks and labs for one of UC Berkeley's largest (over 600 students) and top-rated class 
 
 - **Marketing and Data Intern at Stroll, student safety navigation app**
@@ -54,7 +54,7 @@ Collaborated with UCPD Corporal and Chief Community Officers to map and test ove
 
 
 ## Skills
-- **Languages**: Python, Java, R, SQL, Scheme, Regex
+- **Languages**: Python, Java, C, R, SQL, Scheme, Regex, RISC-V
  <br />
 - **Tools and Packages**: Folium, Numpy, Matplotlib, Seaborn, Scikit-Learn
 

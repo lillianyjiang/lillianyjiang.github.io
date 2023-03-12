@@ -29,6 +29,12 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 
 #### CS 70: Discrete Math & Probability Theory (Summer 2022)
 - [Final Cheatsheet](https://drive.google.com/file/d/1Gdr9Yu6dOY2LRztlh2fhy9s0qUVf7AsM/view?usp=sharing)
+
+#### CS 188: Introduction to Artifical Intelligence (Fall 2022)
+- [Midterm Cheatsheet](https://drive.google.com/file/d/1lumcyVmKxv33eMd7_F1rZJQOXFyG6AmA/view?usp=sharing)
+- [Machine Learning Notes](https://drive.google.com/file/d/1hflq796rzNOAMGVFj6rC0_1h4RHViwgy/view?usp=sharing)
+- [Particle Filtering](https://drive.google.com/file/d/1r5D1x8Lfeq-DFq_UG3QWzQ_8gKQxNCmc/view?usp=sharing)
+- [Hidden Markov Models](https://drive.google.com/file/d/1K7XJnBSO8gZOkO3HFLxcWh_o0VFTlS7l/view?usp=sharing)
  
 ## Data Science Classes
 #### Data 8: Introduction to Data Science (Fall 2021)

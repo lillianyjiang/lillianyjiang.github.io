@@ -2,6 +2,14 @@
 permalink: /projects/
 title: "Projects"
 ---
+## Examining Inequities in Nature Based Solutions [September 2022 - November 2022]
+- Worked with 3 other analysts from Data Science Society to examine inequities in Nature Based Solutions for The Nature Conservancy 
+- Analyzed inequities in Nature-Based Solutions (NBS) in the Bay Area using Python and data from TNC’s API
+- Developed a ranking of Nature Based Solutions and compared it to current measures of climate risk to identify
+discrepancies in between the two measurements, which were used to make recommendations for NBS investments
+- Presented findings and recommendations to a non-technical panel of ten city planners and investors
+- Language: Python
+
 ## Pac-Man AI [September 2022 - November 2022]
 - Developed multiple python Pac-Man projects using informed state-space search, probabilistic inference, and reinforcement learning.
 - Implemented depth first search, breadth first search, and A* search algorithms to help Pac-Man find food while avoiding ghosts. 
