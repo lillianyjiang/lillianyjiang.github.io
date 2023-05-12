@@ -35,7 +35,10 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 - [Machine Learning Notes](https://drive.google.com/file/d/1hflq796rzNOAMGVFj6rC0_1h4RHViwgy/view?usp=sharing)
 - [Particle Filtering](https://drive.google.com/file/d/1r5D1x8Lfeq-DFq_UG3QWzQ_8gKQxNCmc/view?usp=sharing)
 - [Hidden Markov Models](https://drive.google.com/file/d/1K7XJnBSO8gZOkO3HFLxcWh_o0VFTlS7l/view?usp=sharing)
- 
+
+#### CS 61C: Computer Architecture (Spring 2023)
+- [Cheatsheet](https://drive.google.com/file/d/1-LuhVLoiFchGdoF0TWEgDmq3tep9LfG-/view?usp=sharing)
+
 ## Data Science Classes
 #### Data 8: Introduction to Data Science (Fall 2021)
 - [All the code you need to know for Data8](https://docs.google.com/document/d/19cRRdntQnVy-VAVVJh9uwp8nDuZBuvKd4LtulBWEduA/edit?usp=sharing)
@@ -45,6 +48,10 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 
 #### Data 100: Principles of Data Science (Fall 2022)
 - [Notion site of all my notes](https://sumptuous-grease-6b7.notion.site/6128386d17504a059d9c7ba621150a37?v=a6a0a30bf9f048bd8a8566622af6fb20)
+
+#### Data 140: Probability for Data Science 
+- [Formula Sheet](https://drive.google.com/file/d/1RlLO6pdSeprzTQpLB4eu6KHs-VbflU1X/view?usp=sharing)
+- [Gamma Distribution and Poisson Process Notes](https://drive.google.com/file/d/1YQcmXI1CLZgRJE4CHacxVtwvsZsq2Pd6/view?usp=sharing)
 
 ## Other
 
@@ -59,6 +66,10 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 - [The Sun and Stellar Evolution](https://docs.google.com/document/d/1Hjl9H5Yq7DQEMB1gL2wAzubOBOJdLg4_ThSgIR7D8TA/edit?usp=sharing)
 - [Cosmology](https://docs.google.com/document/d/1zeMbl4TuI4iYNFLaFz5znZkK_oBryTVBW79Z2QkTK54/edit?usp=sharing)
 
-
 #### UGBA 135: Personal Finance (Fall 2022)
 - [Final Review Sheet with quizlet links](https://docs.google.com/document/d/1a-Gp2UqAPfL92g_oq5H5z0ANxeOWrXaTao8wH4bEzF4/edit?usp=sharing)
+
+#### Econ 100B: Macroeconomics (Spring 2023)
+- Please note that I took this class with a visiting professor, so some of the content covered may be different
+- [Midterm 1 Cheatsheet](https://docs.google.com/document/d/1niPQuNAUPA-fwLQM25oNIAIXkIA6VhH-ZytZQqJQgbQ/edit?usp=sharing)
+- [Midterm 2 Cheatsheet](https://drive.google.com/file/d/1x_LLbhJknIpuNigTf8KcATiMnjEM-tj-/view?usp=sharing)

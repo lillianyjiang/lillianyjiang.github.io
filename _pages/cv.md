@@ -5,21 +5,31 @@ title: "Lillian's CV"
 
 <div id="button-container">
     <div id="resume-button">
-        <a href="https://drive.google.com/file/d/1MfbdFuRsJOVQJOpEONN17FBLURqvRLJ3/view?usp=sharing" target="_blank">See Full Resume</a>
+        <a href="https://drive.google.com/file/d/1aAARqEaUQD6iDI_bSCxv0XSip1XneSfq/view?usp=sharing" target="_blank">See Full Resume</a>
     </div>
 </div>
 
 ## University of California, Berkeley 
 - **Degree:** B.A. Computer Science, Data Science 
  <br />
-- **Expected Graduation:** May 2024 
+- **Expected Graduation:** May 2025 
  <br />
 - **Coursework:** 
- [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  Personal Finance,  Introduction to Cognitive Science
+ [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Probability for Data Science](http://prob140.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  Personal Finance,  Introduction to Cognitive Science
  <br />
-- **Activites:** [Data Science Society](https://dssberkeley.com/), Society of Women Engineers, Project SMILE, Chinese Students Association, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
+- **Activites:** [Data Science Society](https://dssberkeley.com/), Society of Women Engineers, Project SMILE, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
 
 ## Experiences 
+- **Incoming Artifical Intelligence and Data Science Intern at JP Morgan** 
+<br />
+*June 2023 - August 2023*
+
+
+- **Researcher at AI Safety Camp** 
+<br />
+*Feb 2023 - Present*
+<br />
+Researcher on the "How Should Machines Learn from Default Options" team
 
 - **UC Berkeley Campus Ambassador** 
 <br />
@@ -56,7 +66,7 @@ Collaborated with UCPD Corporal and Chief Community Officers to map and test ove
 ## Skills
 - **Languages**: Python, Java, C, R, SQL, Scheme, Regex, RISC-V
  <br />
-- **Tools and Packages**: Folium, Numpy, Matplotlib, Seaborn, Scikit-Learn
+- **Tools and Packages**: Folium, Numpy, Matplotlib, Seaborn, Scikit-Learn, Selenium, Beautiful Soup
 
 ## Volunteering 
 
