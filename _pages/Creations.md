@@ -28,8 +28,9 @@ I enjoy making vlogs and montages of my life as a college student! I also like m
 - <a href="https://youtu.be/YAJDd5EZenQ">Realistic day in the life of a UC Berkeley student</a>
 - <a href="https://youtu.be/5PrgEVIMgZA">Freshman Year at UC Berkeley Video edit</a>
 - <a href="https://youtu.be/L_MLnz3bBt8">Switzerland in 15 seconds</a>
+- [Chicago Summer Highlight Reel](https://youtu.be/jxzIVhZC50s?si=YHk5Bwolyo_mkwP6)
+- [Late nights in Chicago](https://youtu.be/xPcPYYQ2PP4?si=AX7maOMKC5NQtXwZ)
 - [Springtime in Berkeley](https://www.instagram.com/reel/CrM6G7lsOAS/?hl=en)
-- [Weekend trip to LA](https://www.instagram.com/reel/CpbsintsW7E/?hl=en)
 
 ## :newspaper: Blogposts 
 - <a href="https://aweberkeley.medium.com/career-changes-80fe46343113">Career Changes: Interview with women from AWE</a>

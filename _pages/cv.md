@@ -10,30 +10,51 @@ title: "Lillian's CV"
 </div>
 
 ## University of California, Berkeley 
-- **Degree:** B.A. Computer Science, Data Science 
+- **Degree:** B.A. Computer Science, B.S. Business Administration
  <br />
 - **Expected Graduation:** May 2025 
  <br />
 - **Coursework:** 
- [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Probability for Data Science](http://prob140.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  Personal Finance,  Introduction to Cognitive Science
+ [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Probability for Data Science](http://prob140.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  [Databases](https://cs186berkeley.net/), Personal Finance,  Introduction to Cognitive Science
  <br />
 - **Activites:** [Data Science Society](https://dssberkeley.com/), Society of Women Engineers, Project SMILE, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
 
 ## Experiences 
-- **Incoming Artifical Intelligence and Data Science Intern at JP Morgan** 
+**Artifical Intelligence and Data Science Intern at JP Morgan** 
 <br />
 *June 2023 - August 2023*
-
-
-- **Researcher at AI Safety Camp** 
 <br />
-*Feb 2023 - Present*
+Analyzed customer personas and debit card rush order value from datasets with 10M+ points over the past 5 years
+<br />
+Delivered recommendations for rush debit card fee hike to Chase leadership, projected 73% revenue increase and
+    87% customer retention
+
+**Researcher at AI Safety Camp** 
+<br />
+*Feb 2023 - May 2023*
 <br />
 Researcher on the "How Should Machines Learn from Default Options" team
 
-- **UC Berkeley Campus Ambassador** 
+**Grader for Introduction to Astronomy** 
 <br />
-*Jan 2022 - Present*
+*August 2022 - December 2022* <br />
+Grade homeworks and labs for one of UC Berkeley's largest (over 600 students) and top-rated class 
+
+## Leadership & Extracurriculars
+**Vice President of Marketing at [Data Science Society](https://dssberkeley.com/)**
+<br />
+*May 2023 - Present*
+<br />
+Promoted data science events to thousands of students, including datathons, career fairs, and info sessions
+<br />
+Utilized Figma to craft engaging Instagram posts and post Medium newsletters to over 2K followers
+<br />
+Piloted ”Data Science Information Session” event to increase awareness of data science to incoming freshman
+
+
+**UC Berkeley Campus Ambassador** 
+<br />
+*Jan 2022 - Dec 2022*
 <br />
 Enhanced UC Berkeley visitor experience by leading 90 minute campus tours for prospective families, community
 programs, and groups up to 40. 
@@ -42,20 +63,6 @@ Directed hundreds of visitors at the Homecoming and Admitted Students event.
 <br />
 Write blogposts for the BearTalk Blog to inform prospective and current students about student life
 
-- **Grader for Introduction to Astronomy** 
-<br />
-*August 2022 - December 2022* <br />
-Grade homeworks and labs for one of UC Berkeley's largest (over 600 students) and top-rated class 
-
-- **Marketing and Data Intern at Stroll, student safety navigation app**
- <br />
- July 2021 - Jan 2022
- <br />
- Reached over 5,000 Berkeley students by designing 5 promotional stickers on Procreate and planning marketing material for Instagram, Facebook, and Tiktok posts to increase awareness of Stroll on campus
- <br />
-Designed and recruited 43 members to the Stroll UX Research Program to create a pipeline for user feedback to identify ways to improve app architecture, fix technical bugs, and differentiate among competitors 
- <br />
-Collaborated with UCPD Corporal and Chief Community Officers to map and test over 5 navigation routes, which lead to an endorsement of the Stroll app to Berkeley students with the ASUC External Affairs Vice President 
 
 
 
