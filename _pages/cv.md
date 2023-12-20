@@ -15,11 +15,19 @@ title: "Lillian's CV"
 - **Expected Graduation:** May 2025 
  <br />
 - **Coursework:** 
- [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Probability for Data Science](http://prob140.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  [Databases](https://cs186berkeley.net/), Personal Finance,  Introduction to Cognitive Science
+    * Computer Science Coursework: [Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/fa22/), [Principles of Data Science](https://ds100.org/fa22/), [Probability for Data Science](http://prob140.org/), [Data Structures & Algorithms](https://inst.eecs.berkeley.edu/~cs61c/sp22/), [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa21/), [Machine Strucutres](https://cs61c.org/sp23/), [Discrete Math & Probability Theory](https://su22.eecs70.org/), [Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54),  [Databases](https://cs186berkeley.net/)
+    * Business Coursework: Macroeconomics, [Economic Models](https://data-88e.github.io/fa21/), Business Communications, Financial Accounting, Business Ethics, Personal Finance
  <br />
 - **Activites:** [Data Science Society](https://dssberkeley.com/), Society of Women Engineers, Project SMILE, Association of Women Engineers, Student Advisory Committee to the Vice Chancellor for Student Affairs
 
 ## Experiences 
+**Data Science Intern at [Titan Gen AI](https://techcrunch.com/2023/12/06/titan-ai-leverages-generative-ai-to-streamline-mobile-game-development/)** 
+<br />
+*November 2023 - Present*
+<br />
+Developing data pipelines to collect information about game analytics 
+
+
 **Artifical Intelligence and Data Science Intern at JP Morgan** 
 <br />
 *June 2023 - August 2023*

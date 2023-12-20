@@ -6,14 +6,13 @@ title: "Creations"
 If I had to describe myself in anoter word it would be a *creator*. I love exploring my creativity and documenting my experiences through photography, video editing, blogging, and design. Check out some of my work below!
 
 ## :camera: Photography 
-{::comment}
+Follow my photography/travel account on [Instagram](https://www.instagram.com/lillian.travels/) for more pictures 
 ![Downtown seattle sailing picture](/assets/images/downtown_seattle_sailing_pic.jpg "Downtown seattle sailing picture")) 
 <br />
 ![Lands end](/assets/images/land's_end.jpg "Land's End")
 
 I also sell pictures of my photography as wall decor collections. Check them out here and email me or shoot me a DM on Instagram to buy! All wall collections are $5 each. 
 
-{:/comment}
 
 ![Portfolio](/assets/images/portfolio.png "Portfolio")
 
@@ -31,6 +30,7 @@ I enjoy making vlogs and montages of my life as a college student! I also like m
 - [Chicago Summer Highlight Reel](https://youtu.be/jxzIVhZC50s?si=YHk5Bwolyo_mkwP6)
 - [Late nights in Chicago](https://youtu.be/xPcPYYQ2PP4?si=AX7maOMKC5NQtXwZ)
 - [Springtime in Berkeley](https://www.instagram.com/reel/CrM6G7lsOAS/?hl=en)
+- [Junior Fall at UC Berkeley Highlight Reel](https://youtu.be/oSLiaubekvU?si=jkTTnXLJzej92T-W)
 
 ## :newspaper: Blogposts 
 - <a href="https://aweberkeley.medium.com/career-changes-80fe46343113">Career Changes: Interview with women from AWE</a>

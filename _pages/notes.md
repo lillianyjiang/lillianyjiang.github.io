@@ -39,6 +39,11 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 #### CS 61C: Computer Architecture (Spring 2023)
 - [Cheatsheet](https://drive.google.com/file/d/1-LuhVLoiFchGdoF0TWEgDmq3tep9LfG-/view?usp=sharing)
 
+#### CS 186: Databases (Fall 2023)
+- [Paxos Flowchart](https://drive.google.com/file/d/1tMEQBQa_8-yjMVGC8kK6WMh_ZXj7sLl5/view?usp=sharing)
+- [Recovery Flowchart](https://drive.google.com/file/d/1hDT2MSlREWiaRM6ld8xlAmIRI3ZhaG9h/view?usp=sharing)
+- [Transactions and Concurrency](https://drive.google.com/file/d/1bJnmN4JhxTQGGPGnGrTExfILOpXNG91-/view?usp=sharing)
+
 ## Data Science Classes
 #### Data 8: Introduction to Data Science (Fall 2021)
 - [All the code you need to know for Data8](https://docs.google.com/document/d/19cRRdntQnVy-VAVVJh9uwp8nDuZBuvKd4LtulBWEduA/edit?usp=sharing)
@@ -73,3 +78,7 @@ Check out some of my YouTube videos reviewing classes I have taken at UC Berkele
 - Please note that I took this class with a visiting professor, so some of the content covered may be different
 - [Midterm 1 Cheatsheet](https://docs.google.com/document/d/1niPQuNAUPA-fwLQM25oNIAIXkIA6VhH-ZytZQqJQgbQ/edit?usp=sharing)
 - [Midterm 2 Cheatsheet](https://drive.google.com/file/d/1x_LLbhJknIpuNigTf8KcATiMnjEM-tj-/view?usp=sharing)
+
+#### UGBA 102A: Financial Accounting (Fall 2023)
+- [Midterm Cheatsheet](https://docs.google.com/document/d/1TEZcxm_hpBoiq3HK31m9K_-b8I83_JyjrL1qrRIs10U/edit?usp=sharing)
+- [Post Midterm Cheatsheet](https://docs.google.com/document/d/1cRYSkSwF5p2oBQhbWFw81lJstN46CCvrDLXyrH7O4pU/edit?usp=sharing)
